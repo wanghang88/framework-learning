@@ -6,6 +6,11 @@ import java.util.StringJoiner;
  * @author guang19
  * @date 2020/4/29
  * @description 基于数组实现的循环队列
+ *
+ *对比参考博客:(基于数组实现循环队列)
+ *          https://blog.csdn.net/lovecj111/article/details/110085126
+ *
+ *
  */
 public class ArrayCircleQueue<T>
 {
